@@ -1,7 +1,7 @@
 import React from 'react';
 import './index.css';
-import Header from './componets/Nav'; 
-import Serach from './componets/serach';
+import Header from './componets/Nav';
+import Serach from './componets/Serach';
 import CategoryGrid from './componets/category_grid_ui';
 import ProductCard from './componets/ProductCard';
 import Sample from './componets/Sample';
@@ -25,21 +25,21 @@ function App() {
   return (
     <>
       <Header />
-      <Serach/>
-<CategoryGrid/>
-<ProductCard/>
-<Sample/>
-<Bikes/>
-<Houses/>
-  <Video/>
- <Tablet/>
- <Land/>
- <Jobs/>
-</>
-  
-   
-  
-  
+      <Serach />
+      <CategoryGrid />
+      <ProductCard />
+      <Sample />
+      <Bikes />
+      <Houses />
+      <Video />
+      <Tablet />
+      <Land />
+      <Jobs />
+    </>
+
+
+
+
   );
 }
 
