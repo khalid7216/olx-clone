@@ -5,11 +5,10 @@ export default function CategoryGrid() {
     { img: 'mobile.png', label: 'Mobiles' },
     { img: '/car.png', label: 'Vehicles' },
     { img: '/house.png', label: 'Property For Sale' },
-    { img: '/rentcl.png', label: 'Property For Rent' },
+    { img: '/rent.png', label: 'Property For Rent' },
     { img: '/camera.png', label: 'Electronics & Home Appliances' },
     { img: '/bussiness.png', label: 'Business, Industrial & Agriculture' },
     { img: '/services.png', label: 'Services' },
-    
     { img: '/animal.png', label: 'Animals' },
     { img: '/furniture.png', label: 'Furniture & Home Decor' },
     { img: '/fashion.png', label: 'Fashion & Beauty' },
