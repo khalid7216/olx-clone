@@ -9,6 +9,7 @@ export default function CategoryGrid() {
     { img: '/camera.png', label: 'Electronics & Home Appliances' },
     { img: '/bussiness.png', label: 'Business, Industrial & Agriculture' },
     { img: '/services.png', label: 'Services' },
+    
     { img: '/animal.png', label: 'Animals' },
     { img: '/furniture.png', label: 'Furniture & Home Decor' },
     { img: '/fashion.png', label: 'Fashion & Beauty' },
