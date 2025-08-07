@@ -7,7 +7,7 @@ export default function Footer() {
       {/* App Download Section */}
       <div className="px-4 py-8 flex flex-col md:flex-row items-center justify-between gap-6 max-w-7xl mx-auto">
         <div>
-          <h2 className="text-xl font-semibold text-cyan-950">
+          <h2 className="text-xl font-extrabold text-cyan-950">
             Find amazing deals on the go.
           </h2>
           <a href="#" className="text-blue-600 font-extrabold text-lg">
