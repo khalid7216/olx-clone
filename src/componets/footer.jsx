@@ -10,7 +10,7 @@ export default function Footer() {
           <h2 className="text-xl font-semibold text-gray-900">
             Find amazing deals on the go.
           </h2>
-          <a href="#" className="text-blue-600 font-semibold text-lg">
+          <a href="#" className="text-blue-600 font-extrabold text-lg">
             Download OLX app now!
           </a>
         </div>
