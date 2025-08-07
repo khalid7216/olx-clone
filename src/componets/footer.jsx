@@ -7,7 +7,7 @@ export default function Footer() {
       {/* App Download Section */}
       <div className="px-4 py-8 flex flex-col md:flex-row items-center justify-between gap-6 max-w-7xl mx-auto">
         <div>
-          <h2 className="text-xl font-semibold text-gray-900">
+          <h2 className="text-xl font-semibold text-cyan-950">
             Find amazing deals on the go.
           </h2>
           <a href="#" className="text-blue-600 font-extrabold text-lg">
@@ -26,7 +26,7 @@ export default function Footer() {
       {/* Footer Links Section */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-6 px-4 pb-8 max-w-7xl mx-auto text-sm text-gray-600">
         <div>
-          <h4 className="font-semibold text-gray-800 mb-2">Popular Categories</h4>
+          <h4 className="font-extrabold text-gray-800 mb-2">Popular Categories</h4>
           <ul className="space-y-1">
             <li>Cars</li>
             <li>Flats for rent</li>
